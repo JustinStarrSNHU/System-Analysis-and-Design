@@ -2,7 +2,7 @@
 
 # Hello, and welcome to the System Analysis and Design Repository of my Academic Projects🖐️
 
-Learned to effectively and professionally communicate technical concepts and design decisions to various audiences. Created system models using industry tools. UML Diagrams include Object, Sequence, Activity, Class, and Use Case Diagrams. <br><br>
+- Learned to effectively and professionally communicate technical concepts and design decisions to various audiences. Created system models using industry tools. UML Diagrams include Object, Sequence, Activity, Class, and Use Case Diagrams. <br><br>
 
 # 📖 Table of Contents
 
