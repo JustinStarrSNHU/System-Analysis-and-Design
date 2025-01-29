@@ -1,7 +1,21 @@
 # System-Analysis-and-Design
 
+# Hello, and welcome to the System Analysis and Design Repository of my Academic Projects🖐️
+
+Learned to effectively and professionally communicate technical concepts and design decisions to various audiences. Created system models using industry tools. UML Diagrams include Object, Sequence, Activity, Class, and Use Case Diagrams. <br><br>
+
+# 📖 Table of Contents
+
 Project 1 - M5 Folder <br>
 Project 2 - M7 Folder
+
+> 📌 M1/ Business Requirements Document 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/System-Analysis-and-Design/tree/main/M1)<br>
+📌 M2/ W2 Assignment 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/System-Analysis-and-Design/tree/main/M2)<br>
+📌 M3/ Evaluate a Process Model 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/System-Analysis-and-Design/tree/main/M3)<br>
+📌 M4/ Evaluate a Object Model and Gantt Chart 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/System-Analysis-and-Design/tree/main/M4)<br>
+📌 M5/ Model Application, Project One: Business Requirements and Gantt Chart 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/System-Analysis-and-Design/tree/main/M5)<br>
+📌 M6/ Interpretting UML Diagrams and Use Case Diagram 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/System-Analysis-and-Design/tree/main/M6)<br>
+📌 M7/ Project Two: Client Presentation and System Design Document 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/System-Analysis-and-Design/tree/main/M7)<br>
 
 # Briefly summarize the DriverPass Project. Who was the client? What type of system did they want you to design?
 
